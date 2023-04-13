@@ -36,7 +36,6 @@ section {
     padding: 1rem;
 }
 
-/* Form styles */
 form {
     display: grid;
     gap: 0.5rem;
@@ -75,14 +74,13 @@ button[type="submit"]:hover {
     background-color: #1c7aa8;
 }
 
-/* Expense list styles */
+
 .expense-list {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-/* Overview content styles */
 .overview-content {
     font-family: inherit;
 }
